@@ -250,12 +250,12 @@ public class ShoppingCart {
 		 }
 		
 	 }
-		public static void main(String[] args) throws IOException {
+/*public static void main(String[] args) throws IOException {
 			ShoppingCart sh=new ShoppingCart();
 			sh.shopping();
 			
 			
-		}
+		}*/
 		
 	}
 	
